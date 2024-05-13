@@ -1,7 +1,7 @@
 Learning Goals
 
 WEB-2
-S3/Object stores
+S3/Object stores /n
 pre-signed Urls
 CDNs
 Http Servers
